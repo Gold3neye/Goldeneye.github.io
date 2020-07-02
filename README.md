@@ -1,5 +1,6 @@
-# Goldeneye.github.io
+# The Hacking Project Bootcamp
+<**\ S1 /**>
 
-S1
+The Surfing Project : http://google.vogsphere.fr/Goldeneye.github.io/
 
-The Surfing Project
+This site was built using [GitHub Pages](https://pages.github.com/).
