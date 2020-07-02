@@ -1,6 +1,6 @@
 .jumbotron {
   width: 99.05vw;
-  height: 60vh;
+  height: 50vh;
   background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url("surf.jpg");
   background-position: center;
   background-repeat: no-repeat;
