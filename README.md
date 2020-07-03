@@ -5,7 +5,8 @@ The Surfing Project : http://google.vogsphere.fr/Goldeneye.github.io/
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-Le projet
+Le projet :
+
 Voici la version mobile de la page à coder https://i.imgur.com/GjTtsBA.jpg (#mobile_first). Et ici, la version Desktop de la page à coder https://i.imgur.com/zZzjc3t.jpg .
 
 Quelques règles simples :
