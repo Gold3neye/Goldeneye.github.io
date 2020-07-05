@@ -1,7 +1,7 @@
 # The Hacking Project Bootcamp
 <**\ S1 /**>
 
-The Surfing Project : http://google.vogsphere.fr/Goldeneye.github.io/
+The Surfing Project : https://gold3neye.github.io/The-Surfing-Project/
 
 Le projet :
 
